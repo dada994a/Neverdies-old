@@ -1,10 +1,9 @@
-# neverdies-for-everyone
+# neverdies-Clean
 from their github repo
 
-I finally got the git bug fixed and was able to push the fixed code.
-
 ### Credits
-- [Rom](https://github.com/Romdotpng) - Removing hwid system, Leaks
+- [Rom](https://github.com/Romdotpng) - Leaks
+- [Hypinohaizin](https://github.com/dada994a) - RemoveHwid,RemoveRat 
 - [Chronos](https://github.com/ChronosMain) - skidding shoreline
 - [Mortex8](https://github.com/Mortex8) - skidding shoreline
 
